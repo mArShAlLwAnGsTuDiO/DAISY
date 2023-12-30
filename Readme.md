@@ -3,15 +3,15 @@
 # Original author's Github: https://github.com/zealtv/VIZZable-2
 ## Update:
 
-0.0.7
+## DAISY 0.0.7
 
 Debugged from teh original package and delated some unstable visual effects
 
-0.1.1
+## DAISY 0.1.1
 
 Added some effects
 
-DAISY_Particle_v0.1.1:
+## DAISY_Particle_v0.1.1:
 
 An 3D real-time Audio-reactive/MIDI controlled rendering particel effects.
 
