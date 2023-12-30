@@ -21,6 +21,9 @@ Kick Reaction: using RMS algorithm with intensity control. (Can be switeched on/
 
 Trigger: Can be mapped with MIDI to control each noise change
 
+Can be streaming via syphon in Mac OS. 
+Servername: Marshall69
+
 
 
 Have fun :) -mAr$hA//
